@@ -2,3 +2,4 @@ git add
 modified
 git log
 edit master
+edit hot_fix
